@@ -1,0 +1,4 @@
+**/*.nupkg
+**/api_key
+*.zip
+*TODO*
