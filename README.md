@@ -1,4 +1,8 @@
 ﻿# Static Web Server
+ 
+ __DEPRECATED:__ Use [Scoop](https://scoop.sh/#/apps?q=static-web-server&s=0&d=1&o=true) instead.
+
+---
 
 > A blazing fast and asynchronous web server for static files-serving.
 
